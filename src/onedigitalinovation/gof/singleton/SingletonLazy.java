@@ -1,4 +1,4 @@
-package onedigitalinovation.gof;
+package onedigitalinovation.gof.singleton;
 
 /**
  * Singleton "Preguiçoso"
